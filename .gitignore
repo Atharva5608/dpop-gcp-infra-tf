@@ -1,0 +1,10 @@
+# Managed by terraform-modules/terraform-modules-modulesync
+.terraform/
+*.tfstate
+*.tfstate.backup
+.sw[a-p]
+.*.sw[a-p]
+*.plan
+*.lock.info
+terraform.tfvars
+.terraform.lock.hcl
